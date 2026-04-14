@@ -1,22 +1,20 @@
-# 🛍️ Retail Sales EDA
+# Retail Sales Exploratory Data Analysis
 
-This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to uncover trends, patterns, and business insights.
+## Project Overview
+This project analyzes retail sales data to understand customer behavior, sales trends, and product performance.
 
-## 📌 Objectives
-- Analyze monthly and seasonal sales trends
-- Identify top-performing product categories
-- Understand customer purchasing behavior
+## Tools Used
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn
+- Jupyter Notebook
 
-## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+## Key Insights
+- Customer behavior is similar across age and gender
+- Sales show seasonal variation
+- Electronics category performs slightly better
+- Most customers are low spenders
 
-## 📊 Key Insights (To be updated)
-- Sales trends over time
-- Category-wise performance
-- Customer insights
-
-## 📁 Project Status
-🚧 In Progress – Analysis and visualizations will be added soon.
+## Files Included
+- Jupyter Notebook (.ipynb)
+- Dataset (.csv)
+- Project Presentation (.pptx)
