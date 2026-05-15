@@ -19,5 +19,16 @@ This project analyzes retail sales data to understand customer behavior, sales t
 - Dataset (.csv)
 - Project Presentation (.pptx)
 
+## Project Screenshots
+
+  ### Monthly Sales Trend
+![Monthly Sales Trend](monthly-sales-trend.png)
+
+  ### Category-wise Sales Analysis
+![Category Sales](category-sales-analysis.png)
+
+  ### Customer Spending Distribution
+![Sales Distribution](sales-distribution.png)
+
 ## Conclusion
 The analysis shows that customer behavior is consistent, sales vary across months, and high-value customers play a key role in revenue generation.
